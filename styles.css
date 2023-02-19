@@ -1,31 +1,47 @@
-.banner-image{
-	background-image: url(bkImg.jpg);
+#imgPlace{
+	background-image: url(network.jpg);
 	background-size: cover;
 }
-
-.skills{
-	text-align: center;
-	margin-top: 10%;
-	margin-bottom: 10%;
-}
 .form-area{
-	padding-left: 5%;
-	padding-right: 5%;
-	padding-bottom: 5%;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: medium;
+
+}
+.navbarNav{
+    font-family: 'Times New Roman', Times, serif;
+    font-display: #000000;
+}
+#about{
+    font-size: larger;
 }
 
-.touch{
-	font-size: xx-large;
-}
+.education{
+    margin: 0;
+    padding: 0;
+    background-size: cover;
 
-.headingArea{
-	padding: 5%;
-	font-size:  xx-large;
 }
+.box{
 
-.ConDetails{
-	padding-left: 5%;
-	font-size: x-large;
+background: rgba(0,0,0,0.0);
+padding: 40px;
+margin-left: 5%;
+color:#000000;
+font-family: cursive;
+}
+.box-img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.school{
+    margin-bottom: 10px;
+}
+.inter{
+    margin-bottom: 100px;
+}
+.btech{
+ margin-bottom: 20px;;
 }
 
 
